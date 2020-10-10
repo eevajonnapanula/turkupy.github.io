@@ -12,6 +12,10 @@
 
 Instructions for contributin can be found in [CONTRIBUTING.md](./CONTRIBUTING.md)
 
+## Licence
+
+Licence can be found in [LICENCE](./LICENCE)
+
 ## Note that
 
 - Uses yarn, beware.
